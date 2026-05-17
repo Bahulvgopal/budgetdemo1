@@ -42,7 +42,7 @@
        z-index: 100 — sits above page content
        but below mobile nav overlay (200) and navbar (300)
     ══════════════════════════════════════════ */
-    #petal-canvas {
+ /*   #petal-canvas {
       position: fixed;
       top: 0; left: 0;
       width: 100%; height: 100%;
