@@ -3,7 +3,7 @@
 /* ══════════════════════════════════════
    FLOWER PETAL ANIMATION
 ══════════════════════════════════════ */
-const canvas = document.getElementById('petal-canvas');
+/*const canvas = document.getElementById('petal-canvas');
 const ctx = canvas.getContext('2d');
 
 function resize() {
